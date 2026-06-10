@@ -17,8 +17,6 @@ To set up your local environment and reproduce this analysis, ensure you have Py
 
 # Clone the repository to your local system
 
-# Navigate into the project folder
-cd multiple_regression_analysis
 
 # Install dependencies using pip
 pip install pandas numpy matplotlib seaborn statsmodels scipy scikit-learn
