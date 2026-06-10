@@ -16,7 +16,6 @@ Local Installation & Environment Setup
 To set up your local environment and reproduce this analysis, ensure you have Python installed, clone this repository, and install the required libraries:
 
 # Clone the repository to your local system
-git clone https://github.com
 
 # Navigate into the project folder
 cd multiple_regression_analysis
